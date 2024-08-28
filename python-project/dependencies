@@ -1,0 +1,4 @@
+pip install pandas numpy matplotlib
+
+pip install yfinance
+
