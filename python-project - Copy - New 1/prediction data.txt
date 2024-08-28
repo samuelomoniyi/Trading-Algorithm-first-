@@ -1,0 +1,11 @@
+updated scholastic k and d semms give less signals 
+what of filtering the prediction indicator codes like if macd does not cross very well like shoot downwords or upwords
+
+chatgpt: ok now can u do sth like filtering i want maybe to show buy and sell signals if it crosses very well its can of like wanting to predict if it will shoot up or down well instead of straight
+
+im changing the threadhold
+filtered bollinger bands gave nothing  maybe filtered works more with more data stock 
+
+filtered macd high score
+
+ema sma high score
